@@ -1,16 +1,3 @@
-{
-  "file_path": "",
-  "request_user": "",
-  "commenced_on": "",
-  "current_time": "",
-  "transfer_rate": "",
-  "pct_completed": 0,
-  "transfer_status": "transferring",
-  "elapsed_time": "",
-  "file_size_bytes": "",
-  "bytes_lost": "",
-  "bytes_transferred": "",
-  "estimated_completion": "",
-  "deleted": "0",
-  "datafile_id":""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:860d10f105804a694f81234ae258aa74b7e2d36ae977f6c351610696720da6da
+size 331

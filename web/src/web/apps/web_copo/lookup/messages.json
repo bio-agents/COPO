@@ -1,12 +1,3 @@
-{
-  "title": "General messages",
-  "description": "Defines messages that could be used system-wide.",
-  "properties": {
-    "doi_metadata_crosscheck": {
-      "text": "Please cross-check the resolved metadata for correctness before saving."
-    },
-    "doi_metadata_error": {
-      "text": " You may want to enter the metadata manually."
-    }
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e52c58ea5ecc0a5e224a07abcda44538f5944dfb50239862cb24f48d26c53b
+size 349

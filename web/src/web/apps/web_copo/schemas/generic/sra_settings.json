@@ -1,12 +1,3 @@
-{
-  "description": "Settings for submission to ENA using the ISA SRA converters.",
-  "title": "SRA Settings",
-  "properties": {
-    "sra_center": "TGAC",
-    "sra_broker": "TGAC",
-    "sra_action": "ADD",
-    "sra_broker_contact_name": "COPO support",
-    "sra_broker_inform_on_status": "support@copo.org",
-    "sra_broker_inform_on_error": "support@copo.org"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:41daefe45166bbdfc12cac6e5eb8dee06167912f312b2ed94a812b5a8ecdc1e4
+size 365

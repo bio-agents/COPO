@@ -1,25 +1,3 @@
-{
-  "id": "",
-  "name": "",
-  "factor": [
-    {
-      "key": "",
-      "value": "",
-      "termAccessionNumber": "",
-      "termSourceREF": "",
-      "unit": ""
-    }
-  ],
-  "characteristic": [
-    {
-      "key": "",
-      "value": "",
-      "termAccessionNumber": "",
-      "termSourceREF": "",
-      "unit": ""
-    }
-  ]
-}
-
-
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac61b8569607a03f55671fa33200871505c17b052168d8600f413eda33e3ccfe
+size 328

@@ -1,18 +1,3 @@
-{
-  "name":"",
-  "type":"",
-  "is_clean": false,
-  "dc:Contributor":"",
-  "dc:Coverage":"",
-  "dc:Creator":"",
-  "dc:Date":"",
-  "dc:Description":"",
-  "dc:Format":"",
-  "dc:Identifier":"",
-  "dc:Language":"",
-  "dc:Publisher":"",
-  "dc:Rights":"",
-  "dc:Source":"",
-  "dc:Title":"",
-  "dc:Type":""
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:1401ac3474565a6cd3567117f8c5897142e55f7988f267d9da3a008fa64e4ca9
+size 300

@@ -1,32 +1,3 @@
-{
-  "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "ISA material attribute schema",
-  "description": "JSON-schema representing a material attribute (or characteristic) value in the ISA model",
-  "type": "object",
-  "properties": {
-    "@id": {
-      "type": "string",
-      "format": "uri"
-    },
-    "category": {
-      "$ref": "material_attribute_schema.json#"
-    },
-    "value": {
-      "anyOf": [
-        {
-          "$ref": "ontology_annotation_schema.json#"
-        },
-        {
-          "type": "string"
-        },
-        {
-          "type": "number"
-        }
-      ]
-    },
-    "unit": {
-      "$ref": "ontology_annotation_schema.json#"
-    }
-  },
-  "additionalProperties": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a896650aee37be54376e3c0caf7e578160fc29a23519a71f225de48894175f
+size 710

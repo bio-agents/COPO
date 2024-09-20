@@ -1,22 +1,3 @@
-{
-    "$schema": "http://json-schema.org/draft-04/schema",
-    "title" : "ISA process parameter value schema",
-    "description" : "JSON-schema representing a Parameter Value (associated with a Protocol REF) in the ISA model",
-    "type" : "object",
-    "properties" : {
-        "category" : {
-             "$ref": "protocol_parameter_schema.json#"
-            },
-        "value": {
-            "anyOf" : [
-                { "$ref": "ontology_annotation_schema.json#"},
-                { "type": "string"},
-                { "type": "number"}
-                ]
-        },
-        "unit": {
-            "$ref": "ontology_annotation_schema.json#"
-        }
-    },
-    "additionalProperties": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:3916072ffc9e17c518ddda30ba6eb5b17b5cceb7a8b8b02da77a849f89a0623f
+size 697

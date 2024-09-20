@@ -1,30 +1,3 @@
-{
-  "$schema": "http://json-schema.org/draft-04/schema",
-  "title": "ISA data schema",
-  "description": "JSON-schema representing a data file in the ISA model",
-  "type": "object",
-  "properties": {
-    "@id": {
-      "type": "string",
-      "format": "uri"
-    },
-    "name": {
-      "type": "string"
-    },
-    "type": {
-      "type": "string",
-      "enum": [
-        "Raw Data File",
-        "Derived Data File",
-        "Image File"
-      ]
-    },
-    "comments": {
-      "type": "array",
-      "items": {
-        "$ref": "comment_schema.json#"
-      }
-    }
-  },
-  "additionalProperties": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a812aa242bf48bd8fe48dc724e2b2f0f8dd96adc4bb4ec06b2b769445eae6a92
+size 603

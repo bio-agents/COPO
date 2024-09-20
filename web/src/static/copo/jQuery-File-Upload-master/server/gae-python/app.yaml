@@ -1,17 +1,3 @@
-application: jquery-file-upload
-version: 1
-runtime: python27
-api_version: 1
-threadsafe: true
-
-libraries:
-- name: PIL
-  version: latest
-
-handlers:
-- url: /(favicon\.ico|robots\.txt)
-  static_files: static/\1
-  upload: static/(.*)
-  expiration: '1d'
-- url: /.*
-  script: main.app
+version https://git-lfs.github.com/spec/v1
+oid sha256:cafc3d1b293d10601c913720fa7fef7a8507d0209a81a35e630cefa014703e88
+size 278

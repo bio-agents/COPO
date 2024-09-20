@@ -1,23 +1,3 @@
-{
-    "$schema": "http://json-schema.org/draft-04/schema",
-    "title": "ISA factor schema",
-    "name": "ISA factor schema",
-    "description": "JSON-schema representing a factor value in the ISA model",
-    "type": "object",
-    "properties": {
-        "@id": { "type": "string", "format": "uri" },
-        "factorName": {
-            "type": "string"
-        },
-        "factorType": {
-            "$ref": "ontology_annotation_schema.json#"
-        },
-        "comments" : {
-            "type": "array",
-            "items": {
-                 "$ref": "comment_schema.json#"
-            }
-        }
-    },
-    "additionalProperties": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9f4fba9b008b124165b3b4704dc5874f4841e556c8f644d99ef5f96fb06b788
+size 645

@@ -1,14 +1,3 @@
-{
-  "id": "",
-  "name": "",
-  "organism": "",
-  "characteristics": [
-    {
-      "key": "",
-      "value": "",
-      "termAccessionNumber": "",
-      "termSourceREF": "",
-      "unit": ""
-    }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba90c9fe3f3dd6864baed3546a7ba068817462a5d296889981f0518b130f4f10
+size 200

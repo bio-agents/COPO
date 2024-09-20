@@ -1,20 +1,3 @@
-{
-    "$schema": "http://json-schema.org/draft-04/schema",
-    "title" : "ISA ontology source reference schema",
-    "name" : "ISA ontology source reference schema",
-    "description" : "JSON-schema representing an ontology reference in the ISA model",
-    "type" : "object",
-    "properties" : {
-        "comments" : {
-            "type": "array",
-            "items": {
-                 "$ref": "comment_schema.json#"
-            }
-        },
-        "description" : { "type" : "string" },
-        "file" : { "type" : "string" },
-        "name": {"type": "string"},
-        "version": { "type": "string"}
-    },
-    "additionalProperties": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f77c729c83b1f8a6e87e79cfa092649e77d1a3d8adf7ee064a6408820d0771e
+size 649
